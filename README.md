@@ -1,6 +1,6 @@
 <h1>Hey, hows it goin' <img src="https://cdn.discordapp.com/emojis/821440041271558144.gif" height="35px"></h1>
 
-<h3>Im SirShrooms, im a dumbass and like to break things. <img src="https://cdn.discordapp.com/emojis/821438390619734066.png" height="25px"></h3>
+<h3>Im SirShrooms, im a dumbass and like to break things. <img src="https://cdn.discordapp.com/emojis/742438645608218645.gif" height="25px"></h3>
 
 <h2>Random things</h2>
 <ul>
