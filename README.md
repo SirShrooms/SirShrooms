@@ -8,5 +8,5 @@
   <li>PC Gamer</li>
   <li>I like to mod to make the game more fun :3</li>
   <li>Yes.</li>
-  <li><a href="url">Link to my pfp :)</a></li>
+  <li><a href="https://9gag.com/gag/a7M6yWz?ref=pn">Link to my pfp :)</a></li>
 </ul>
